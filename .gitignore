@@ -1,0 +1,6 @@
+# 常见忽略规则
+node_modules/
+.vscode/
+*.log
+.env
+dist/
